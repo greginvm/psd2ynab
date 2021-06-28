@@ -1,0 +1,8 @@
+BUXFER_USER = 'xxx'
+BUXFER_PASS = 'xxx'
+YNAB_TOKEN = 'xxx'
+YNAB_BUDGET = ''  # see your budget uuid in URL
+
+ACCOUNT_MAPPING = {
+    '<buxfer_account_name>': '<ynab_account_uuid>',
+}
