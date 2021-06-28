@@ -8,6 +8,8 @@ NOTE: I have abandoned the project since I eventually realized that banks that I
 
 __WARNING__: You need to pay for Buxfer (see Plus plan that enables "Automatic Bank Sync"), it costs about $4.00/month.
 
+PS: I am not affiliated with YNAB, Buxfer or Toshl.
+
 # Usage
 
 ## Credentials
